@@ -1,6 +1,6 @@
 # KarrrenX
-Hello!
+Hello World!👩🏻‍💻
 
-I am a computer science major college student, still practicing programming skills:)
+I am Karen, a computer science major college student, still practicing programming skills:)
 
-Keep Going Karen! You can also call me Kaiwen.
+Keep Going Karen! You can do it!💪🏼
