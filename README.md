@@ -1,6 +1,6 @@
 # KarrrenX
-Hello World!👩🏻‍💻
+Hello World! This is Karen!👩🏻‍💻
 
-I am Karen, a computer science major college student, still practicing programming skills:)
-
-Keep Going Karen! You can do it!💪🏼
+I am a computer science major college student, still practicing programming skills:)💪🏼
+Major use Java, good at Oracle, Python, C, and a bit of HTML.
+I love Math and learning more about computer science, I am currently learning Photoshop, Cinema 4D and other useful softwares.
